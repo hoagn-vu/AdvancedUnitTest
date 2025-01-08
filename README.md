@@ -11,6 +11,7 @@
    - Hàm: `sortEmployeesByAge(List<Employee> employees)`
 
 ## Cấu trúc dự án
+```
 ├── src 
 │ 
 ├── AlgorithmUtils.java # File chính chứa các hàm tiện ích 
@@ -18,6 +19,7 @@
 ├── pom.xml # File cấu hình Maven (nếu sử dụng Maven) 
 ├── README.md # Tài liệu mô tả dự án 
 └── target # Thư mục build sau khi biên dịch
+```
 
 ## Chức năng
 
